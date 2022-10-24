@@ -87,7 +87,7 @@ the supervisors.
 ### Diagram of Faculty Dashboard
 <p align="center"> <img src="https://github.com/iqbalriiaz/image-logo/blob/main/teacher_dashboard.png" alt="Faculty Dashboard" style="height: 60%; width:60%;"/> </p>
 
-### UI and UX
+### UI and UX (a few activities)
 Login Activity  |  Signup Activity |  Student Dashboard | Faculty Dashboard.
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![image](https://github.com/iqbalriiaz/image-logo/blob/main/login_ui.png)  |  ![image](https://github.com/iqbalriiaz/image-logo/blob/main/signup_ui.png) |  ![image](https://github.com/iqbalriiaz/image-logo/blob/main/student_dashboard_ui.png) |  ![image](https://github.com/iqbalriiaz/image-logo/blob/main/teacher_dashboard_ui.png)
