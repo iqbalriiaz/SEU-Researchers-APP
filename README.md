@@ -1,5 +1,5 @@
 # <p align="center"> SEU Researchers (Native Android App) </p>
-### (App will be in service at Southeast University from NOVEMBER 2022 [Fall semester])
+### (Currenty in Alpha Version,App will be in service after NOVEMBER 2022 [Fall semester] with it's Beta release.)
 
 ## Project Introduction
 
