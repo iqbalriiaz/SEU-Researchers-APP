@@ -2,7 +2,7 @@
 ## [The Codebase is private]
 ### (Currenty in Alpha Version, working for the Beta release.)
 
-App link: [SEU Researchers](https://play.google.com/store/apps/details?id=com.iqbalriiaz.seuresearchers&hl=en&gl=US) <br>
+Play Store link: [SEU Researchers](https://play.google.com/store/apps/details?id=com.iqbalriiaz.seuresearchers&hl=en&gl=US) <br>
 (to see the app features in details, click on the website link below)  <br>
 Website:  [iqbalriiaz.github.io/seu-researchers](https://iqbalriiaz.github.io/seu-researchers)
 
